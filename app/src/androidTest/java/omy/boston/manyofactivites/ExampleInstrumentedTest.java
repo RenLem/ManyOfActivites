@@ -1,4 +1,4 @@
-package omy.boston.menyofactivites;
+package omy.boston.manyofactivites;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
